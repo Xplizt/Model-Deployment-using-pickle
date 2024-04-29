@@ -1,2 +1,4 @@
-# bankChurn
-2602081815 UTS Model Deployment
+# UTS Model Deployment
+Nama: Landry Aidan Liauw
+NIM: 2602081815
+Link Video:
