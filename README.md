@@ -1,4 +1,2 @@
-# UTS Model Deployment
-Nama: Landry Aidan Liauw\
-NIM: 2602081815\
-Link Video: [https://youtu.be/HaAzHd-msA0?si=9_4B5HUestXGKS6p](https://youtu.be/eEKZ6coBLkw)
+# Bank Churn Prediction Model
+A prediction model using python and pickle files to deploy it for predicting a bank customer's churn rate.
